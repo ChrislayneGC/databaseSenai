@@ -20,3 +20,6 @@ O escopo e os requisitos do projeto devem estar claros, para atender ao objetivo
 Crie o banco de dados do projeto e o selecione, para que as tabelas sejam criadas dentro dele, utilizando a linguagem de definição de dados (DDL).
 Você dever determinar as tabelas, os tipos de relacionamentos, as chaves primária e estrangeira, as entidades e os atributos (propriedades e as características) para, então, representá-lo graficamente na forma de diagrama.
 Deve ainda retomar os conceitos sobre MER/DER e sua importância para o sucesso do projeto.
+
+![image](https://github.com/ChrislayneGC/databaseSenai/assets/93740719/261fe43c-1753-4fa5-82ca-851010fcbee4)
+
